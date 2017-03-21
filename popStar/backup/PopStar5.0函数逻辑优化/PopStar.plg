@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: PopStar - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Nothing\AppData\Local\Temp\RSPC762.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /FR"Debug/" /Fp"Debug/PopStar.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\Nothing\Desktop\C++\PopStar4.1Ïû³ýÅÅÐÐ°ñbug\main.cpp"
+]
+Creating command line "cl.exe @C:\Users\Nothing\AppData\Local\Temp\RSPC762.tmp" 
+Creating temporary file "C:\Users\Nothing\AppData\Local\Temp\RSPC763.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/PopStar.pdb" /debug /machine:I386 /out:"Debug/PopStar.exe" /pdbtype:sept 
+".\Debug\main.obj"
+".\Debug\Mouse.obj"
+".\Debug\StarMap.obj"
+]
+Creating command line "link.exe @C:\Users\Nothing\AppData\Local\Temp\RSPC763.tmp"
+<h3>Output Window</h3>
+Compiling...
+main.cpp
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/PopStar.bsc"  ".\Debug\main.sbr" ".\Debug\Mouse.sbr" ".\Debug\StarMap.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+PopStar.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
